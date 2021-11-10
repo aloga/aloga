@@ -50,7 +50,7 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ademloga&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ademloga&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademloga&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=aloga&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aloga&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloga&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
