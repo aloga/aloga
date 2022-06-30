@@ -24,8 +24,9 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/161280806-425c5c70-bda6-4ef8-a01d-8f0348331eaf.png" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/165810737-8bf1703c-7a9b-46be-8304-330666524055.png" width="17%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" width="12%"> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="12%"> </a>
-
 ## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="gitHub" height="50"/> </a>
