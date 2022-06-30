@@ -26,6 +26,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" width="12%"> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="12%"> </a>
 ## ⚙ Tools
 
